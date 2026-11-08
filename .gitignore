@@ -1,0 +1,10 @@
+# EN: Outputs and temp files | PT: Saídas e arquivos temporários
+output/
+.ipynb_checkpoints/
+__pycache__/
+
+# EN: Secrets, never commit | PT: Segredos, nunca commitar
+.env
+*.key
+*.pem
+credentials*.json
