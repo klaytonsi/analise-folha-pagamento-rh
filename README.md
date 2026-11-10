@@ -1,5 +1,12 @@
 # analise-folha-pagamento-rh
 
+## 📊 Dashboard
+[Ver dashboard interativo / View interactive dashboard](https://datastudio.google.com/reporting/54a9496d-e5d4-4412-919c-c336daadaa7a)
+
+
+
+![Dashboard](images/dashboard.jpg)
+
 **EN:** HR payroll analysis with advanced SQL (CTEs, window functions) on 100% synthetic data, using DuckDB, Pandas and Plotly.
 **PT:** Análise de folha de pagamento de RH com SQL avançado (CTEs, window functions) em dados 100% sintéticos, com DuckDB, Pandas e Plotly.
 
