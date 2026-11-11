@@ -2,12 +2,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/klaytonsi/analise-folha-pagamento-rh/blob/main/analise_folha_pagamento.ipynb)
 
-## 📊 Dashboard
-
-[Ver dashboard interativo / View interactive dashboard](https://datastudio.google.com/reporting/54a9496d-e5d4-4412-919c-c336daadaa7a)
-
-[![Dashboard](images/dashboard.jpg)](images/dashboard.jpg)
-
 **PT:** Análise de folha de pagamento de RH com SQL avançado (CTEs, window functions) em dados 100% sintéticos, com DuckDB, Pandas e Plotly.
 **EN:** HR payroll analysis with advanced SQL (CTEs, window functions) on 100% synthetic data, using DuckDB, Pandas and Plotly.
 
